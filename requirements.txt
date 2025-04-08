@@ -1,0 +1,11 @@
+# External libraries
+streamlit
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+faiss-cpu  # or faiss-gpu if you prefer GPU support
+PyPDF2
+python-dotenv
+accelerate
+pypdf
